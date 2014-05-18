@@ -1,0 +1,22 @@
+{
+  "name": "home.express",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "./node_modules/.bin/supervisor index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Jesse the Game",
+    "email": "jesse@jessethegame.net"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "*",
+    "connect-assets": "*",
+    "express": "*",
+    "socket.io": "*",
+    "morgan": "*",
+    "supervisor": "*"
+  }
+}
