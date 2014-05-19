@@ -17,6 +17,7 @@
     "express": "*",
     "socket.io": "*",
     "morgan": "*",
-    "supervisor": "*"
+    "supervisor": "*",
+    "body-parser": "^1.2.0"
   }
 }
